@@ -25,3 +25,6 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
+
+## 6. 画像パスとレベルを入力し、「画像表示」を押下する
+![入力](img/Image%20001.png)
