@@ -8,7 +8,6 @@
 →　Git Bash Hereを選択
 ![gitbash](img/image%20007.png)
 
-
 ### 2. (初回のみ)　以下コマンドでクローンする
 ```
 https://github.com/MitC-ict/display_image.git
