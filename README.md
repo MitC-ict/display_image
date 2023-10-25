@@ -3,11 +3,10 @@
 
 ### 1. (初回のみ)　
 #### ファイルエクスプローラを開く→　ドキュメントへ移動→　右クリック→　Git Bash Hereを選択
-![gitbash](img/image%20007.png)
 
 ### 2. (初回のみ)　以下コマンドでクローンする
 ```
-https://github.com/MitC-ict/display_image.git
+git clone https://github.com/MitC-ict/display_image.git
 ```
 
 ### 3. (初回のみ)　仮想環境作成
